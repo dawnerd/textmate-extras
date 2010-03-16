@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/9435/trunk/Bundles/Python%20Django.tmbundle/Snippets
+END
+FilePathField (filepath).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/FilePathField%20(filepath).tmSnippet
+END
+ManyToManyField (manytomany).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/ManyToManyField%20(manytomany).tmSnippet
+END
+CharField (char).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/CharField%20(char).tmSnippet
+END
+DateField (date).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/DateField%20(date).tmSnippet
+END
+DateTimeField.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/DateTimeField.tmSnippet
+END
+IntegerField (integer).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/IntegerField%20(integer).tmSnippet
+END
+TimeField (time).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/TimeField%20(time).tmSnippet
+END
+PositiveIntegerField (posint).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/PositiveIntegerField%20(posint).tmSnippet
+END
+DecimalField.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/DecimalField.tmSnippet
+END
+IPAddressField (ipaddress).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/IPAddressField%20(ipaddress).tmSnippet
+END
+XMLField.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/XMLField.tmSnippet
+END
+BooleanField (boolean).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/BooleanField%20(boolean).tmSnippet
+END
+FileField (file).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/FileField%20(file).tmSnippet
+END
+ForeignKey (fk).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/ForeignKey%20(fk).tmSnippet
+END
+NullBooleanField (nullbool).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/NullBooleanField%20(nullbool).tmSnippet
+END
+Model Skeleton (model).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/Model%20Skeleton%20(model).tmSnippet
+END
+PositiveSmallIntegerField (possmall).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/PositiveSmallIntegerField%20(possmall).tmSnippet
+END
+USStateField (ussstate).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/USStateField%20(ussstate).tmSnippet
+END
+ImageField (image).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/ImageField%20(image).tmSnippet
+END
+PhoneNumberField (phonenumber).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/PhoneNumberField%20(phonenumber).tmSnippet
+END
+URLField (url).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/URLField%20(url).tmSnippet
+END
+CommaSeparatedIntegerField (commaseparatedinteger).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/CommaSeparatedIntegerField%20(commaseparatedinteger).tmSnippet
+END
+TextField (text).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/TextField%20(text).tmSnippet
+END
+FloatField (float).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/9176/trunk/Bundles/Python%20Django.tmbundle/Snippets/FloatField%20(float).tmSnippet
+END
+SmallIntegerField (smallinteger).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/SmallIntegerField%20(smallinteger).tmSnippet
+END
+EmailField (email).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/EmailField%20(email).tmSnippet
+END
+AutoField (auto).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/AutoField%20(auto).tmSnippet
+END
+SlugField (slug).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/8051/trunk/Bundles/Python%20Django.tmbundle/Snippets/SlugField%20(slug).tmSnippet
+END
+send_mail.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/9435/trunk/Bundles/Python%20Django.tmbundle/Snippets/send_mail.tmSnippet
+END
