@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>2618FA0F-0BBA-4164-AC43-5C732BAB4C45</string>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;${1:Untitled Page}&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	$2
+&lt;/body
+&lt;/html&gt;</string>
+	<key>name</key>
+	<string>XHTML</string>
+	<key>tabTrigger</key>
+	<string>xhtml</string>
+	<key>uuid</key>
+	<string>4FD010E6-1F08-4950-A139-28522985B367</string>
+</dict>
+</plist>

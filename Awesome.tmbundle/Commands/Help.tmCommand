@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>. "$TM_SUPPORT_PATH/lib/webpreview.sh"
+html_header "Help" "Transmit"
+"$TM_SUPPORT_PATH/lib/markdown_to_help.rb" &lt;&lt;'MARKDOWN'
+
+# About
+
+This is a collection of useful tools for TextMate.
+
+# Included Snippets
+
+1. Console Log
+2. HTML Template
+3. XHTML Template
+4. Button
+5. Blank tag w/ mirroring
+6. Paragraph with lorem text
+7. Breadcrumb template
+
+MARKDOWN
+html_footer</string>
+	<key>input</key>
+	<string>none</string>
+	<key>name</key>
+	<string>Help</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>uuid</key>
+	<string>B2D9E511-6A8B-4AEE-8EAD-AD3B574D72B0</string>
+</dict>
+</plist>

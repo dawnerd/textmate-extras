@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;ol class="Breadcrumbs"&gt;
+	&lt;li&gt;&lt;a href="${1:}"&gt;${2:Home}&lt;/a&gt; &amp;raquo;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="${3:}"&gt;${4:Page Name}&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</string>
+	<key>name</key>
+	<string>Breadcrumbs</string>
+	<key>tabTrigger</key>
+	<string>bc</string>
+	<key>uuid</key>
+	<string>CFBE742B-6984-4481-8D07-483454E3D843</string>
+</dict>
+</plist>

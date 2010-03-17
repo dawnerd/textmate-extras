@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>2618FA0F-0BBA-4164-AC43-5C732BAB4C45</string>
+	<key>content</key>
+	<string>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</string>
+	<key>name</key>
+	<string>P Lorem</string>
+	<key>tabTrigger</key>
+	<string>plorem</string>
+	<key>uuid</key>
+	<string>1901C4B6-FCFA-4554-BD3C-D4F6FE5A64DB</string>
+</dict>
+</plist>
