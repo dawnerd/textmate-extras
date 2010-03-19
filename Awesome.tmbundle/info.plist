@@ -8,6 +8,7 @@
 		<array>
 			<string>5C0D8940-705F-4E6F-9632-DA45395BBCE7</string>
 			<string>6A318F6E-E53B-4628-8659-A0230ADAB069</string>
+			<string>F688AC9C-AF4D-4514-85E3-CC5F3A4A5B50</string>
 			<string>------------------------------------</string>
 			<string>B2D9E511-6A8B-4AEE-8EAD-AD3B574D72B0</string>
 		</array>
@@ -37,6 +38,15 @@
 				<key>name</key>
 				<string>HTML</string>
 			</dict>
+			<key>F688AC9C-AF4D-4514-85E3-CC5F3A4A5B50</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>9AA98AE8-9DB2-4C45-95FC-7F225588A1D7</string>
+				</array>
+				<key>name</key>
+				<string>CSS</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -51,6 +61,8 @@
 		<string>76060459-A061-4B22-AD44-D2A5968F1A79</string>
 		<string>1901C4B6-FCFA-4554-BD3C-D4F6FE5A64DB</string>
 		<string>CFBE742B-6984-4481-8D07-483454E3D843</string>
+		<string>9AA98AE8-9DB2-4C45-95FC-7F225588A1D7</string>
+		<string>CAC1BDCD-486B-4679-A615-9351A6733125</string>
 	</array>
 	<key>uuid</key>
 	<string>2618FA0F-0BBA-4164-AC43-5C732BAB4C45</string>

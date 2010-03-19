@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env python
+import os, sys
+import re
+
+line = re.split('{',os.environ['TM_CURRENT_LINE'])
+print os.environ['TM_CURRENT_LINE']
+sys.stdout.write("\t"+line[0]+"${1:}"+" { ${2:} }")</string>
+	<key>fallbackInput</key>
+	<string>line</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>Nested CSS</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>tabTrigger</key>
+	<string>c,</string>
+	<key>uuid</key>
+	<string>9AA98AE8-9DB2-4C45-95FC-7F225588A1D7</string>
+</dict>
+</plist>
