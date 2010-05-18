@@ -519,8 +519,12 @@ class Element:
             for key in self.attributes:
                 attrib = self.attributes[key]
                 attrib = attrib.replace('&', ("%i" % count))
+                if text: text = text.replace('&count', ("%i" % count))
+                if self.text: self.text = self.text.replace('&count', ("%i" % count))
                 if local_count is not None:
                     attrib = attrib.replace('$', ("%i" % local_count))
+                    if text: text = text.replace('$count', ("%i" % local_count))
+                    if self.text: self.text = self.text.replace('$count', ("%i" % local_count))
                 self.attributes[key] = attrib
 
         # Copy over from parameters
